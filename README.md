@@ -26,10 +26,10 @@ Users need to register/Signup with the application.
 
 *Screenshot of UI*
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180664990-c479e82c-f032-4e0e-8bf8-bbce73b4d0a8.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180664996-8970aff4-7d2c-4437-b7d5-7d954611ebbb.jpg" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189742291-8d316de4-e3dd-47b8-b926-9564a89fea0c.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189742306-21ccdccf-e848-48f2-b2d1-0cf0db886f76.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189742324-b0f8bd4e-3bdf-4734-96f5-52d07cf411b4.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189742333-c38166b1-6727-4e79-954e-43a26fe791de.png" width="180" height="390" />
 </div>
 
 ---
